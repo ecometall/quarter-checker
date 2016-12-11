@@ -32,3 +32,5 @@ Here is its code:
         print('Point is in the beginning of coordinate system!');
   }
 ```
+
+Project published at: https://ecometall.github.io/quarter-checker/
